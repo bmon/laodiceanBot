@@ -1,0 +1,1619 @@
+[18:48:06] [connected at Tue Aug 07 18:48:06 2012]
+[18:48:13] [I have joined ##ncss_challenge]
+[18:48:27] <LaoD> test
+[18:48:32] <LaoD> Botten_Lao:
+[18:48:32] <Botten_Lao> LaoD: I am a bot!
+[18:48:38] <Lucas_F98> Sugarloaf0: and it has a case LD
+[18:48:44] <Lucas_F98> * :D
+[18:48:46] <LaoD> :D
+[18:48:54] <LaoD> it's working now...
+[18:48:57] <LaoD> ok
+[18:48:59] <LaoD> tpg
+[18:49:04] <LaoD> :D :D :D
+[18:50:04] <Sugarloaf0> tpg
+[18:50:32] <Sugarloaf0> TPG
+[18:50:57] <spake> i thought it was supposed to be if someone logged in with tpg?
+[18:51:07] <LaoD> working on that
+[18:51:12] <Sugarloaf0> spake: I think that's the intention.
+[18:51:33] <spake> LaoD: what are you using to run the bot?
+[18:51:55] <LaoD> spake: python, twisted lib
+[18:52:07] <spake> LaoD: ah, okay
+[18:52:10] <ryannathans> tpg is really good aye
+[18:52:23] <LaoD> apparently not xD
+[18:52:34] <Sugarloaf0> tpg tpg tpg
+[18:52:34] <Lucas_F98> Sugarloaf0: http://www.seeedstudio.com/depot/dso-nano-v2-p-681.html?cPath=174 seems cool... little pricy but only 200kHz sampling
+[18:52:38] <NCSSBot> Title: DSO Nano v2  [TOL131B2P] - $89.00 : Seeed Studio Bazaar, Boost ideas, extend the reach
+[18:52:41] <LaoD> nope
+[18:53:15] <Sugarloaf0> Lucas_F98: The hardware fails anywhere beyond that anyway. I think they've limited it for a good reason.
+[18:54:17] <Lucas_F98> yeah...  probs gonna get this... 1mHz  >>  http://www.ebay.com.au/itm/ARM-Dso201-Portable-Pocket-sized-Mini-Nano-Handheld-Digital-Storage-Oscilloscope-/120846229843?pt=AU_B_I_Electrical_Test_Equipment&hash=item1c22ff2153 
+[18:54:24] <NCSSBot> Title: ARM Dso201 Portable Pocket-sized Mini Nano Handheld Digital Storage Oscilloscope | eBay
+[18:55:55] <Sugarloaf0> Lucas_F98: Neat.
+[18:58:40] <Sugarloaf0> Lucas_F98: I'm surprised there aren't more of these things around.
+[18:59:12] <Lucas_F98> as in people having them... or as in different models?
+[18:59:30] <Sugarloaf0> As in cheap DSOs.
+[19:02:06] <Lucas_F98> yeah there only seems to be about 4 models
+[19:02:10] [disconnected at Tue Aug 07 19:02:10 2012]
+[19:02:14] [connected at Tue Aug 07 19:02:14 2012]
+[19:02:22] [I have joined ##ncss_challenge]
+[19:02:33] <Sugarloaf0> Lucas_F98: The CPU for the ~$200 costs <$10. Trying to find a price for the FPGA.
+[19:02:56] <Lucas_F98> yeah not fair
+[19:03:28] <Sugarloaf0> Lucas_F98: FPGA is <$10 as well.
+[19:04:14] [disconnected at Tue Aug 07 19:04:14 2012]
+[19:04:17] [connected at Tue Aug 07 19:04:17 2012]
+[19:04:38] <Sugarloaf0> Lucas_F98: Oh and the screen...
+[19:04:38] [disconnected at Tue Aug 07 19:04:38 2012]
+[19:04:49] [connected at Tue Aug 07 19:04:49 2012]
+[19:05:58] <Sugarloaf0> Lucas_F98: http://www.seeedstudio.com/wiki/File:DSO_Quad_Schematic.zip ;)
+[19:06:21] <Lucas_F98> hahaha
+[19:06:24] <Lucas_F98> cheat
+[19:08:09] [disconnected at Tue Aug 07 19:08:09 2012]
+[19:08:13] [connected at Tue Aug 07 19:08:13 2012]
+[19:09:36] * MatthewJA appears from literally nowhere
+[19:09:40] [disconnected at Tue Aug 07 19:09:40 2012]
+[19:11:36] [connected at Tue Aug 07 19:11:36 2012]
+[19:12:01] <IceDingo> :O
+[19:12:08] <LaoD> ok, who here is on TPG?
+[19:12:25] <Lucas_F98> ACWL i think
+[19:12:32] <LaoD> damn, nobody else?
+[19:12:36] <Sugarloaf0> Lucas_F98: What is this I don't even
+[19:12:37] <Lucas_F98> nope
+[19:12:37] <MatthewJA> who *here* is on it
+[19:12:40] <spake> ACWL is on optus
+[19:12:42] <MatthewJA> or who who visits here is on it
+[19:12:52] <LaoD> MatthewJA: Both?
+[19:12:53] <spake> you can use /who to get everyone's hostnames
+[19:12:54] <MatthewJA> all I remember is that simon is on tpg and it makes me lol
+[19:13:00] <IceDingo> nope seems like noone here atm
+[19:13:12] <Lucas_F98> there goes testing
+[19:13:16] <LaoD> xD
+[19:13:27] <LaoD> I'll have to try it with freenode or something
+[19:13:27] <IceDingo> butbut... other isps? :P
+[19:13:36] <LaoD> but it picked itself up, so that's good
+[19:14:07] <MatthewJA> man I should be studying for my physics exam
+[19:14:10] <MatthewJA> also my engineering exam
+[19:14:14] <MatthewJA> which I don't know when it is
+[19:14:15] <IceDingo> MatthewJA, me too!
+[19:14:18] <Sugarloaf0> Then do it?
+[19:14:19] <IceDingo> Physics tomorrow
+[19:14:19] <Sugarloaf0> :P
+[19:14:23] <MatthewJA> woo physics tomorrow
+[19:14:25] <MatthewJA> ^5
+[19:14:30] <MatthewJA> don't be silly, sugarloaf0
+[19:14:32] <spake> MatthewJA: i had engineering yesterday
+[19:14:37] [disconnected at Tue Aug 07 19:14:37 2012]
+[19:14:39] [connected at Tue Aug 07 19:14:39 2012]
+[19:14:47] <MatthewJA> but they have not told me when
+[19:14:53] <LaoD> how did ACWL get his bot to respond to @reload?
+[19:14:58] <MatthewJA> I went up to the deputy, and she was all
+[19:15:04] <MatthewJA> "you have to organise the exam yourself"
+[19:15:04] <spake> LaoD: it's only programmed to respond to him
+[19:15:05] <MatthewJA> -> what
+[19:15:31] <IceDingo> MatthewJA, are you like the only one that does engineering or something?
+[19:15:33] <spake> LaoD: oh, also, NCSSBot is coded using sockets, not an IRC module
+[19:15:44] <LaoD> >_> wut
+[19:15:45] <MatthewJA> no, there's at least one more
+[19:16:03] <LaoD> spake: Wow, that's pretty hectic.
+[19:16:07] <MatthewJA> I don't even know any more
+[19:16:14] <spake> LaoD: the code is on git
+[19:16:19] <MatthewJA> I haven't finished telecom yet... I really need to do that
+[19:16:23] <LaoD> can someone using freenode reconnect for me please? :D
+[19:16:27] <spake> LaoD: https://github.com/AClockWorkLemon/NCSSBot
+[19:16:31] <IceDingo> spake, is that git up to date?
+[19:16:34] <LaoD> spake: Thanks :)
+[19:16:36] <spake> LaoD: we're all using freenode!!!
+[19:16:40] <spake> IceDingo: nope
+[19:16:49] <IceDingo> spake, rightio
+[19:16:53] <spake> IceDingo: we're working out of dropbox at the moment
+[19:16:55] * LaoD facepalm
+[19:16:57] <Sugarloaf0> spake: I did a Letters and Numbers bot with sockets. Not quite as modular as NCSSBot though. :P
+[19:17:18] <spake> Sugarloaf0: heh
+[19:17:19] * LaoD facepalm
+[19:17:40] <IceDingo> brb! :O
+[19:17:42] * Lucas_F98 facedesks
+[19:17:46] <LaoD> Sugarloaf0: That would be awesome :D
+[19:18:01] <spake> Sugarloaf0: last year, both ACWL and I made modular bots designed to respond to commands, and I made a bot that regularly polled the challenge site for score updates, but didn't respond to commands
+[19:18:06] <LaoD> ok, how about someone using the freenode webclient?
+[19:18:14] <spake> Sugarloaf0: so NCSSBot was an attempt to make a bot that had both
+[19:18:23] <MatthewJA> what do you need done, LaoD?
+[19:18:39] <LaoD> MatthewJA: Just disconnect and reconnect :)
+[19:18:43] <MatthewJA> ok
+[19:18:48] <MatthewJA> this isn't just a ploy to get rid of me is it
+[19:19:06] <Sugarloaf0> spake: Nice. I like to see people working together on this stuff. It's cool. :)
+[19:19:32] <LaoD> Sugarloaf0: Yeah :)
+[19:19:34] <Lucas_F98> gotta go maybe on later... bye :)
+[19:19:51] <LaoD> spake: Wow, that's pretty cool (the code on git)
+[19:19:53] <LaoD> yay :D
+[19:20:01] <MatthewJA> yay me
+[19:20:04] <MatthewJA> I am back
+[19:20:06] <LaoD> now we wait for someone on TPG
+[19:20:07] <MatthewJA> all is well again
+[19:20:11] * LaoD MUHAHAHA
+[19:20:14] <MatthewJA> does it complain about them being on tpg
+[19:20:17] <MatthewJA> that's what I'd do 
+[19:20:18] <MatthewJA> if I had a bot
+[19:20:21] * MatthewJA should write a bot
+[19:20:22] <spake> someone lure simon
+[19:20:24] <Sugarloaf0> https://github.com/nic-donaldson/Letters-and-Numbers-Bot/ - is the bot for anyone interested. Code is messy and unmaintained. Don't even know if the current revision works. It was just a quick and fun project. :)
+[19:20:25] <LaoD> "L0L TPG"
+[19:20:29] <MatthewJA> lol
+[19:20:50] * MatthewJA 's code is always messy
+[19:20:55] <MatthewJA> not as messy as some
+[19:20:57] <MatthewJA> :I
+[19:21:00] * MatthewJA shudders
+[19:21:18] * LaoD 's code barely passes as code, and not adsflkbjagfklbafgbjalsdgjbaskgbjasdklgbjasd-spam
+[19:21:50] <MatthewJA> write a parser that interprets code written as adsflkbjagfklbafgbjalsdgjbaskgbjasdklgbjasd-spam
+[19:22:00] <MatthewJA> also I retyped all of that, why did I not just copy and paste
+[19:22:22] * MatthewJA uses Inspect Element to make everything comic sans
+[19:22:30] <MatthewJA> ...
+[19:22:31] <MatthewJA> it's
+[19:22:33] <MatthewJA> horrible
+[19:22:33] <MatthewJA> D:
+[19:22:39] <MatthewJA> WHY DID I DO THIS
+[19:22:43] * IceDingo noms
+[19:23:58] <LaoD> spake: what does it do?
+[19:24:06] <spake> LaoD: just another instance
+[19:24:09] <LaoD> Oh, off to dinner
+[19:24:17] <LaoD> spake: ok :P
+[19:24:21] <MatthewJA> ncssbot needs a better name
+[19:24:41] <spake> MatthewJA: such as?
+[19:24:47] <MatthewJA> "JamesCurranBot"
+[19:26:06] <Sugarloaf0> You'd have to implement a "Final Countdown" feature then.
+[19:26:12] * spake tries to get reacquainted with the code he wrote a year ago
+[19:27:06] * MatthewJA looks at his code from ncss
+[19:27:09] * MatthewJA dies
+[19:27:15] <spake> hehehe
+[19:27:19] <MatthewJA> god
+[19:27:20] <MatthewJA> what
+[19:27:27] <MatthewJA> I can't have been that terrible
+[19:27:50] * Sugarloaf0 wonders if his bot still works
+[19:27:59] <spake> MatthewJA: i still have the snailing gif on my desktop!!
+[19:28:03] * MatthewJA thinks if you leave code around for a while, it goes bad and stops working
+[19:28:04] <MatthewJA> yessssss
+[19:28:06] <MatthewJA> snailing
+[19:28:09] <MatthewJA> the gif? which one was that
+[19:28:23] <Sugarloaf0> There it is. :)
+[19:28:57] <Sugarloaf0> @LN START NUMBERS
+[19:28:58] <LN_bot> A numbers game has been called, anyone who wishes to play should type 'playing'.  The game will start in about 14 seconds.
+[19:29:13] <LN_bot> Not enough players, game will not start
+[19:29:33] * MatthewJA had a bot once
+[19:29:38] <Sugarloaf0> Missing a full stop... I am ashamed.
+[19:29:42] * MatthewJA 's bot threw toast at anyone who mentioned breakfast foods
+[19:31:54] <spake> MatthewJA: http://i40.tinypic.com/r1yjow.jpg
+[19:31:55] <NCSSBot> r1yjow.jpg: image/gif (535.9KB)
+[19:32:05] <MatthewJA> yesssssss
+[19:32:12] <MatthewJA> it's called .jpg though
+[19:32:14] <MatthewJA> I AM SO CONFUSED
+[19:32:22] <Sugarloaf0> Who's on the right?
+[19:32:30] <MatthewJA> best
+[19:32:32] <MatthewJA> ever
+[19:32:36] <Sugarloaf0> Also, crazy cool logo on bottom of shirt. I am jelly.
+[19:32:49] <MatthewJA> what, the ncss logo or the atlassian logo
+[19:32:58] <Sugarloaf0> The fact that you guys -got- logos.
+[19:33:05] <Sugarloaf0> My Atlassian shirt doesn't have them.
+[19:33:09] <MatthewJA> hehehe
+[19:33:14] <MatthewJA> our atlassian shirt is JUST logos
+[19:33:16] <MatthewJA> so many logos
+[19:33:21] <MatthewJA> it's also the most comfortable shirt I own
+[19:33:23] <Sugarloaf0> It's the same design. :)
+[19:33:26] <MatthewJA> I wear it frequently >_>
+[19:33:29] <Sugarloaf0> I went 2011.
+[19:33:32] <spake> all my shirts are from ncss 2011 and 2012
+[19:33:33] <MatthewJA> ahk
+[19:33:35] <MatthewJA> hahahaha
+[19:33:51] <Sugarloaf0> spake: Yeah, there were a large amount of shirts...
+[19:34:03] <Sugarloaf0> The Freelancer ones were particularly flimsy.
+[19:34:26] <MatthewJA> it's too cold to wear my freelancer shirt atm
+[19:34:26] <MatthewJA> is so thin
+[19:34:43] <spake> wear an atlassian shirt whenever you go to the city
+[19:34:48] <Sugarloaf0> But then it's all like, "I got this from Matt Barrie. His collar was -popped-"
+[19:34:50] <spake> and you become a beacon for other ncss-ers
+[19:35:10] <Sugarloaf0> spake: I wear mine all the time. No-one has ever mentioned it. :( In ACT though.
+[19:35:10] <spake> or people working at atlassian, i suppose
+[19:35:12] <MatthewJA> huh, people are cheating in the challenge
+[19:35:16] <spake> Sugarloaf0: aww :(
+[19:35:21] <Sugarloaf0> spake: I ran into David Horst while wearing my NCSS shirt though.
+[19:35:22] <spake> MatthewJA: whaaa!?
+[19:35:27] <MatthewJA> according to the forums
+[19:35:36] <MatthewJA> my question is: WHO IS CHEATING IN WEEK ONE 
+[19:35:45] <MatthewJA> AND IF THEY ARE DOING SO THEN WHY ARE THEY IN ADVANCED :I
+[19:35:57] <ryannathans> how are people cheating
+[19:36:02] <MatthewJA> also, my ISS hoodie > beacon than NCSS shirts
+[19:36:10] <MatthewJA> posting questions verbatim online
+[19:36:14] <MatthewJA> according to this thread
+[19:36:16] <ryannathans> where?
+[19:36:17] <ryannathans> do want
+[19:36:20] <ryannathans> jks
+[19:36:26] <MatthewJA> advanced, general discussion
+[19:36:36] <MatthewJA> I just don't even
+[19:36:40] <spake> welp.
+[19:36:51] <MatthewJA> seriously though
+[19:36:53] <Sugarloaf0> I'm tempted to Google for the questions now to see where this occurred.
+[19:36:57] <spake> yeah
+[19:36:59] <MatthewJA> who would cheat in week one?
+[19:37:05] <MatthewJA> probably yahoo answers/stack overflow
+[19:37:05] <spake> maybe search for one of the q's in stack overflow
+[19:37:12] <MatthewJA> I've seen competition questions posted there before
+[19:37:13] <MatthewJA> for everything
+[19:37:16] <MatthewJA> like the maths comp
+[19:37:16] <MatthewJA> :I
+[19:37:21] <MatthewJA> but yeah
+[19:37:22] <MatthewJA> week one
+[19:37:28] <MatthewJA> advanced
+[19:37:36] <MatthewJA> I kind of assumed that people in advanced were alright at coding
+[19:37:42] <MatthewJA> and the questions were pretty easy this week...
+[19:37:47] <spake> i found this o.o
+[19:37:48] <spake> http://web2.warilla-h.schools.nsw.edu.au/dept/computing/10%20IST/Software%20Design/Python%20Challenge/questions5.pdf
+[19:37:48] <NCSSBot> questions5.pdf: application/pdf (115.8KB)
+[19:37:56] <spake> the english-german-english question
+[19:38:02] <MatthewJA> that was fun
+[19:38:03] <MatthewJA> haha
+[19:38:03] <spake> was recycled from 2007! :O
+[19:38:25] <MatthewJA> ...
+[19:38:26] <Sugarloaf0> spake: I'm not surprised. :P I imagine you guys will see some questions from the 2012 camp show up. Like Bracket Mountains last year.
+[19:38:29] <MatthewJA> is this the beginner one?
+[19:38:33] <spake> though probably week 5 beginners
+[19:38:34] <MatthewJA> OH GOD BRACKET MOUNTAINS
+[19:38:35] <MatthewJA> :I
+[19:38:41] <spake> back then there was only beginners and advanced
+[19:38:55] <MatthewJA> "particularly problem five"
+[19:38:56] <MatthewJA> HOT DAMN
+[19:38:59] * MatthewJA scrolls to problem five
+[19:39:36] <MatthewJA> blimey
+[19:39:43] <MatthewJA> that's a difficulty curve from "write a function to remove spaces"
+[19:40:04] <Sugarloaf0> I'm not finding any of the problems online.
+[19:40:25] <MatthewJA> def remove_spaces(s): return s.replace(" ", "")
+[19:41:49] <ryannathans> german-english looks easy
+[19:41:51] <DpEpsilon> ohai guis
+[19:41:58] <MatthewJA> wasn't german-english in the questions this week
+[19:42:01] <MatthewJA> ohai dp
+[19:42:37] <spake> DpEpsilon: "Teaching a 15 year old the awesomeness of 2-left counting bloom filters. Seriously. The fuck!?"
+[19:42:52] <MatthewJA> oh
+[19:42:57] <MatthewJA> so someone has talked about cheating
+[19:42:59] <MatthewJA> on another thread now
+[19:43:01] <DpEpsilon> spake: where is this posted?
+[19:43:06] <spake> DpEpsilon: by alex on fb
+[19:43:12] <DpEpsilon> spake: :D
+[19:43:22] <DpEpsilon> spake: correct him, I'm 16
+[19:43:43] <spake> heh
+[19:43:51] <spake> correct him yourself, magicutty :P
+[19:43:53] <MatthewJA> you are sixteen?
+[19:44:08] <DpEpsilon> spake: facebook shut down my account.
+[19:44:16] <DpEpsilon> spake: 5 minute mail lol
+[19:44:25] <spake> DpEpsilon: o.o but you're still in my friends list
+[19:44:38] <DpEpsilon> also, I can't tell why he's gone "Seriously. The fuck" *exactly*
+[19:44:45] <DpEpsilon> spake: still shut down...
+[19:44:48] <DpEpsilon> I can't access it.
+[19:44:52] <spake> :S
+[19:44:53] <spake> alright
+[19:44:56] * MatthewJA is sixteen
+[19:45:21] <spake> DpEpsilon: i would think it is because most 15 year olds do not know what 2-left counting bloom filters are
+[19:45:27] <DpEpsilon> yeah
+[19:45:30] <DpEpsilon> that was my first guess.
+[19:45:35] <spake> 16*
+[19:46:07] <DpEpsilon> :P
+[19:46:15] <ryannathans> you can get banned for asking on SO
+[19:46:16] <ryannathans> lololol
+[19:46:29] <MatthewJA> I can't believe people didn't know that cheating was wrong
+[19:46:30] <MatthewJA> in this
+[19:46:31] <MatthewJA> seriously
+[19:46:40] <MatthewJA> FaithInHumanity--
+[19:46:44] <ryannathans> ^
+[19:46:59] <DpEpsilon> lol
+[19:47:08] <ryannathans> what about return math.radians(degrees)
+[19:47:12] <DpEpsilon> Once upon a time
+[19:47:17] <MatthewJA> apparently, though, people are really bad at knowing when cheating is wrong
+[19:47:25] <DpEpsilon> I caught crawfs on a different irc network
+[19:47:26] <MatthewJA> all y11 in nsw have to do a course called all my own work
+[19:47:33] <DpEpsilon> asking for help on a question :P
+[19:47:34] <MatthewJA> because people didn't know that cheating in the hsc is wrong
+[19:47:34] <spake> MatthewJA: oh lawd
+[19:47:35] <MatthewJA> :I
+[19:47:40] <MatthewJA> seriously what
+[19:47:59] <DpEpsilon> MatthewJA: the hsc *itself* is wrong :P
+[19:48:05] <spake> but yeah
+[19:48:10] <spake> just in case anyone was unaware
+[19:48:12] <gagalug> Hello, World!
+[19:48:15] <spake> no sharing solutions in here
+[19:48:16] <spake> at all
+[19:48:20] <MatthewJA> the hsc involves mandatory english
+[19:48:20] <MatthewJA> so
+[19:48:22] <MatthewJA> it's totally wrong
+[19:48:26] <ryannathans> spake: not even hello world?
+[19:48:29] <MatthewJA> oh man what about my awesome hello world solution
+[19:48:30] <MatthewJA> seriously
+[19:48:33] <MatthewJA> you will all fear it
+[19:48:36] <spake> ryannathans: especially not hello world!!
+[19:48:37] <MatthewJA> and it's glory
+[19:48:38] <ryannathans> i beat you at it
+[19:48:46] <MatthewJA> 37 lines
+[19:48:51] <MatthewJA> did anyone get it any shorter than that?
+[19:48:54] <MatthewJA> it was pretty hard
+[19:49:02] <ryannathans> False = True
+[19:49:03] <ryannathans> True = 42
+[19:49:05] <ryannathans> problem?
+[19:49:32] <gagalug> Im not asking for answers but has anyone solved the aardvark challenge?
+[19:49:38] <ryannathans> yeh
+[19:49:47] <ryannathans> simple one when you read the bloody hint
+[19:49:54] * ryannathans didn't read it and tried regex
+[19:49:55] <gagalug> omfg
+[19:49:56] <gagalug> facepalm
+[19:49:58] <MatthewJA> yeah it's not difficult
+[19:50:03] <gagalug> omfg
+[19:50:04] <gagalug> omfg
+[19:50:06] <gagalug> i forgot
+[19:50:11] <gagalug> that you can test/count a word
+[19:50:14] <ryannathans> lol
+[19:50:17] <gagalug> instead of just characters
+[19:50:22] <spake> has anyone seen what this dragan kid posted on the forums o.o
+[19:50:26] <MatthewJA> yeah
+[19:50:28] <MatthewJA> I was gonna post it in here
+[19:50:29] <MatthewJA> but
+[19:50:33] <MatthewJA> I didn't know if he was here
+[19:50:34] <MatthewJA> lurking
+[19:50:35] <MatthewJA> JUDGING
+[19:50:41] <gagalug> what?
+[19:50:44] <spake> who cares
+[19:50:47] <spake> if he was here
+[19:50:49] <MatthewJA> ..good point
+[19:50:50] <spake> we would hunt him out
+[19:50:52] <spake> with pitchforks
+[19:50:57] <MatthewJA> "lol Don't go on stack overflow for difficult question solving. I almost learnt the hardway, I had been playing around with the aardvark question for hours posted it on stack overflow and someone ended up giving a different solution to my code, It worked I ended up analysing the code posting it on the site, but it didnt work an hour or so later I get a message that you can get banned for that stuff so just a tip don't che
+[19:50:59] <MatthewJA> that?
+[19:51:04] <MatthewJA> (it's on my clipboard)
+[19:51:08] <spake> yes
+[19:51:09] <ryannathans> same
+[19:51:12] <ryannathans> i'm looking at it now
+[19:51:12] <spake> it's on my clipboard too
+[19:51:22] <gagalug> ...
+[19:51:24] <gagalug> thats me
+[19:51:24] <MatthewJA> ahahaha nice
+[19:51:25] <gagalug> ...
+[19:51:37] <MatthewJA> maaaan
+[19:51:45] <spake> it's perfectly fine to share solutions on the monday after the week
+[19:52:03] <spake> for code golf and other noble pursuits
+[19:52:46] <gagalug> yeah Im kinda new to this
+[19:52:53] <MatthewJA> it's just generally assumed
+[19:52:55] <MatthewJA> it's a challenge
+[19:53:00] <MatthewJA> and/or competition
+[19:53:04] <gagalug> Yeah I knew that but it was first week
+[19:53:08] <gagalug> so I kinda disregarded
+[19:53:09] <gagalug> haha
+[19:53:09] <MatthewJA> posting to stack overflow isn't an option
+[19:53:10] <MatthewJA> there's the forums
+[19:53:13] <MatthewJA> there's the messages
+[19:53:17] <MatthewJA> plenty of places to go!
+[19:53:22] <MatthewJA> + there was already an answer on the forums ;p
+[19:53:50] <ryannathans> http://www.exploit-db.com/exploits/20201/
+[19:53:52] <gagalug> Do you guys wanna see what the SO answer was?
+[19:53:52] <ryannathans> oops..
+[19:53:53] <NCSSBot> Title: Nvidia Linux Driver Privilege Escalation
+[19:54:45] <gagalug> wait, How old are you guys?
+[19:54:54] <MatthewJA> 16
+[19:55:09] <ryannathans> 15
+[19:55:13] <spake> MatthewJA: are you accelerated or something?
+[19:55:26] <MatthewJA> yes
+[19:55:27] <MatthewJA> +1
+[19:55:28] <MatthewJA> so I'm 16/y12
+[19:55:41] <gagalug> o_o
+[19:55:46] <gagalug> dayum
+[19:56:24] <DpEpsilon> lool
+[19:56:38] <DpEpsilon> ryannathans: what year?
+[19:56:42] <ryannathans> i'm averaging 100% in computer science
+[19:56:44] <ryannathans> DpEpsilon: year 11
+[19:56:56] <ryannathans> went to ncss last year
+[19:57:01] <ryannathans> when i was year 10
+[19:57:15] <DpEpsilon> I'm in year 10/16 years old
+[19:57:17] <DpEpsilon> I went to ncss last year too
+[19:57:22] <DpEpsilon> when I was in year 9
+[19:57:37] <MatthewJA> you so crazy, dpepsilon
+[19:57:42] <DpEpsilon> mhm
+[19:57:46] <gagalug> o_0 You guys are smart... at my school Im the best unfortunately and thats not that good =/
+[19:58:02] <MatthewJA> taaaalk it up
+[19:58:14] <gagalug> ...
+[19:58:20] <DpEpsilon> hmm?
+[19:58:22] <DpEpsilon> wat
+[19:58:39] <gagalug> Im not amazing at programming
+[19:58:46] <gagalug> and Im one of the best in my school
+[19:58:49] <gagalug> which is shameful
+[19:58:52] <gagalug> compared to you guys
+[19:58:52] <MatthewJA> is jking
+[19:58:56] <MatthewJA> for you saying "I'm the best"
+[19:58:57] <MatthewJA> lol
+[19:58:58] <gagalug> :'(
+[19:59:04] * MatthewJA is probably the best at his school...
+[19:59:11] <MatthewJA> I wish I did a computer subject XD
+[19:59:16] * ryannathans is the best at his school
+[19:59:38] <MatthewJA> I am definitely the only python coder I know of at my school
+[19:59:43] <spake> MatthewJA: i'm the only person in my grade doing SDD
+[19:59:48] <MatthewJA> I was gonna do SDD
+[19:59:50] <MatthewJA> BUT THEN I DIDN'T
+[19:59:51] <MatthewJA> WHAI
+[19:59:52] <spake> MatthewJA: with another school though
+[19:59:53] <ryannathans> computer science teacher is contacting a uni to get me work to do in computer science because i'm bored
+[19:59:56] <MatthewJA> DE?
+[19:59:56] * ryannathans yawns
+[20:00:00] <MatthewJA> I do DE engineering :U
+[20:00:06] <ryannathans> going to learn assembly and disassembly
+[20:00:17] <spake> MatthewJA: sort of, it's with northern beaches christian school
+[20:00:19] <DpEpsilon> We have probably > 10 python coders at our school
+[20:00:25] <ryannathans> orly
+[20:00:26] <spake> MatthewJA: like distance ed, but it's all through moodle
+[20:00:30] <DpEpsilon> actually, the SDD class learns python here.
+[20:00:38] <MatthewJA> :P
+[20:00:41] <MatthewJA> I am so envious
+[20:00:43] <MatthewJA> of that subject
+[20:00:43] <spake> DpEpsilon: we haven't had an SDD class for so long i don't know what they teach
+[20:00:44] <LaoD> Back :D
+[20:00:47] <spake> DpEpsilon: but the teacher is shit...
+[20:00:48] <MatthewJA> I did not do it
+[20:00:48] <MatthewJA> D:
+[20:00:59] <LaoD> I changed schools to do SDD
+[20:00:59] <spake> we had a few kids in year 11 do hs1917
+[20:01:00] <ryannathans> spake: my teacher is shit too
+[20:01:06] <ryannathans> spake: database man
+[20:01:12] <MatthewJA> my teacher in y9/10 ist was awful at ist
+[20:01:15] <spake> ryannathans: hehehe
+[20:01:18] <LaoD> ryannathans DATABASES ARE AWESOME :D
+[20:01:24] <ryannathans> i want him to update his knowledge
+[20:01:26] <MatthewJA> I swear...
+[20:01:27] <gagalug> yeah^
+[20:01:28] <ryannathans> LaoD: they are.
+[20:01:29] <spake> ohhhhh the database man.
+[20:01:32] <MatthewJA> him teaching us actionscript
+[20:01:34] <MatthewJA> it was painful
+[20:01:34] <DpEpsilon> :D
+[20:01:35] <ryannathans> my teacher is stuck in the 80s
+[20:01:37] <DpEpsilon> the database man!
+[20:01:38] <MatthewJA> "variables... hmm what's that"
+[20:01:42] <spake> DpEpsilon: yes!
+[20:01:43] <LaoD> xD
+[20:01:56] <MatthewJA> OH MAN DOES ANYONE REMEMBER THAT TEACHER FROM NCSS WHO KEPT ASKING TROLL QUESTIONS
+[20:01:56] <ryannathans> he still insists that L3 ram is on the motherboard
+[20:01:59] * ryannathans cries
+[20:02:00] <LaoD> so... did anyone get hit by the bot?
+[20:02:05] <ryannathans> tpg?
+[20:02:08] <spake> MatthewJA: that is the database man
+[20:02:13] <MatthewJA> HAHAHAHA
+[20:02:13] <MatthewJA> :D
+[20:02:14] <ryannathans> rofl
+[20:02:21] <spake> MatthewJA: ryannathans's teacher
+[20:02:22] <MatthewJA> I did not know he was databaseman
+[20:02:22] <ryannathans> that's my teacher D:
+[20:02:22] <MatthewJA> I know him only as TrollTeacher
+[20:02:26] <MatthewJA> oh man
+[20:02:27] <LaoD> xD
+[20:02:28] <ryannathans> what were these questions
+[20:02:28] <MatthewJA> oh man oh man
+[20:02:32] <LaoD> Botten_Lao 
+[20:02:35] <LaoD> Botten_Lao:
+[20:02:35] <Botten_Lao> LaoD: I am a bot!
+[20:02:37] <MatthewJA> ^5 to you, ryannathans
+[20:02:43] <spake> a hashtable is a lot like a database
+[20:02:51] <ryannathans> o.0
+[20:03:09] <LaoD> spake: no?
+[20:03:28] <MatthewJA> what questions
+[20:03:29] <MatthewJA> like
+[20:03:36] <ryannathans> in class he still tells us todays programming languages are useless with no 'post test loops' and python lacking a 'case' and other stuff....
+[20:03:37] <MatthewJA> james curran demonstrates functions in python
+[20:03:45] <MatthewJA> "how do you define a procedure?"
+[20:03:50] <ryannathans> o.0
+[20:03:51] <ryannathans> what 
+[20:03:53] <ryannathans> no biat
+[20:03:55] <spake> LaoD: that's what the database man said
+[20:03:56] <ryannathans> no bait?
+[20:04:07] <LaoD> spake: Lolwhat?
+[20:04:14] <MatthewJA> james curran: "a procedure is a function that does not return. procedures have not been separated from functions for x many years."
+[20:04:28] <ryannathans> yeah 30 years
+[20:04:32] <MatthewJA> hahhaa
+[20:04:33] <ryannathans> that's how old his knowledge is
+[20:04:34] <MatthewJA> so funny
+[20:04:38] <MatthewJA> I had a conversation with him
+[20:04:39] <MatthewJA> on the opening day
+[20:04:43] <MatthewJA> that was interesting
+[20:04:44] <LaoD> spake: Hashtables are designed to be redundant... lol?
+[20:04:56] <ryannathans> MatthewJA: what convo
+[20:04:59] <MatthewJA> he still knows more about programming than my ist teacher tho
+[20:05:04] <MatthewJA> idr most of it
+[20:05:05] <spake> lets all go to usyd and we can be a family again!
+[20:05:08] <MatthewJA> he mentioned a server of some sort
+[20:05:09] <MatthewJA> usyd!
+[20:05:15] <LaoD> :P
+[20:05:16] * MatthewJA applies to ANU
+[20:05:20] <MatthewJA> plleeease accept me anu
+[20:05:23] <MatthewJA> ACCEPT MEEEE
+[20:05:25] <LaoD> xD
+[20:05:38] <LaoD> Good luck... >96 Atar :P
+[20:05:49] <spake> also fact that it is in act
+[20:05:58] <LaoD> no!!!
+[20:06:04] <MatthewJA> I'm going for a 96 atar
+[20:06:06] <spake> and that i am in sydney
+[20:06:06] <MatthewJA> so
+[20:06:19] <MatthewJA> hopefully I keep up my marks!
+[20:06:27] <LaoD> MatthewJA: I take my hat off to you then.... well, my headset anyway.
+[20:06:28] <MatthewJA> 97 in my last ext1 maths test :o
+[20:06:30] <DpEpsilon> fuck atar
+[20:06:33] <LaoD> ^
+[20:06:38] <MatthewJA> my atar might be brought down by english though
+[20:06:39] <MatthewJA> so
+[20:06:42] <MatthewJA> that makes me very unhappy
+[20:06:47] <MatthewJA> I am good at my relevant subjects
+[20:06:50] <MatthewJA> less so at english
+[20:06:55] <MatthewJA> also, my ext english teacher hates me
+[20:06:56] <ryannathans> english won't be a part of my atar score
+[20:06:58] <ryannathans> ehehhehe
+[20:07:01] <ryannathans> woop woop
+[20:07:05] <LaoD> why is that?
+[20:07:07] <DpEpsilon> and besides, I'm quite able to worm my way up as long as my atar is over 81.
+[20:07:10] <MatthewJA> so I got at least 3 marks less than someone who did equally well as me in the last assessment
+[20:07:12] <ryannathans> physics, chem, math, computer science are my top 4
+[20:07:19] <MatthewJA> english WILL count toward your atar
+[20:07:21] <MatthewJA> 1/5 has to
+[20:07:24] <spake> english always counts
+[20:07:25] <DpEpsilon> ryannathans: english *has* to be a part of your atar score.
+[20:07:26] <MatthewJA> it's part of 'english is mandatory'
+[20:07:27] <ryannathans> no it doesnt
+[20:07:27] <LaoD> ryannathans: They always take english
+[20:07:29] <MatthewJA> that's why I'm so rage
+[20:07:30] <ryannathans> no it doesn't...
+[20:07:31] <LaoD> Yes it does
+[20:07:32] <MatthewJA> it does
+[20:07:32] <ryannathans> NO IT DOESN'T
+[20:07:34] <MatthewJA> english does
+[20:07:35] <MatthewJA> trust me
+[20:07:36] <MatthewJA> it does
+[20:07:36] <LaoD> DOES
+[20:07:37] <ryannathans> IT'S YOUR BEST 4 SCORES
+[20:07:38] <MatthewJA> that's why everyone hates it
+[20:07:39] <ryannathans> NO IT DOESN'T
+[20:07:41] <ryannathans> YOU'RE ALL WRONG
+[20:07:44] <MatthewJA> IT'S YOUR BEST 2 UNITS OF ENGLISH
+[20:07:45] <LaoD> You're outnumbered
+[20:07:48] <ryannathans> NO IT'S NOT
+[20:07:50] <MatthewJA> + YOUR BEST 8 UNITS AFTER THAT
+[20:07:52] <ryannathans> GO LOOK AT ATAR WEBSITE
+[20:07:53] <ryannathans> WRONG.
+[20:07:55] <MatthewJA> NO U
+[20:08:02] * MatthewJA gestures
+[20:08:03] <MatthewJA> naaaaaaaaarghh
+[20:08:07] <ryannathans> it's listed as a common myth
+[20:08:08] <MatthewJA> nooooarrrgh
+[20:08:09] <MatthewJA> port douglas
+[20:08:14] <MatthewJA> wait really???
+[20:08:17] * MatthewJA 's day gets better
+[20:08:18] <ryannathans> yeah..
+[20:08:21] <MatthewJA> THOSE ENGLISH TEACHERS
+[20:08:23] <MatthewJA> WERE LYING TOME
+[20:08:24] <MatthewJA> gaeiwgnaewiognewa
+[20:08:26] <ryannathans> it's your top 4 subjects in year 12
+[20:08:36] <MatthewJA> wait up
+[20:08:38] <MatthewJA> 4 subjects
+[20:08:40] <MatthewJA> = 8 units
+[20:08:41] <LaoD> Plus english.
+[20:08:42] <MatthewJA> 10 units for atar
+[20:08:45] <MatthewJA> + english, yeah
+[20:08:48] <ryannathans> not plus english
+[20:08:49] <LaoD> To be more correct
+[20:08:54] <LaoD> it is your best 8 units
+[20:08:58] <LaoD> plus english
+[20:09:02] <MatthewJA> dammit ry an
+[20:09:06] <MatthewJA> you got my hopes up!
+[20:09:11] <LaoD> Sure is, gimme a sec to find the BOS page
+[20:09:18] <spake> ryannathans: 10 minutes in the ncss dungeon!
+[20:09:22] <ryannathans> gimme a sec to find the page
+[20:09:35] <ryannathans> what's hsc?
+[20:09:51] <MatthewJA> lol tpg
+[20:09:52] <spake> noooooo
+[20:09:54] <spake> svict4 is here
+[20:09:56] <spake> but
+[20:10:01] <spake> using webchat :'(
+[20:10:06] <svict4> MatthewJA: ಠ_ಠ
+[20:10:17] <MatthewJA> :D
+[20:10:23] <ryannathans> svict4: these people are trying to say english must go towards your atar
+[20:10:25] <svict4> yeahh, im still trying to get the hang of irssi so i'm giving it a miss for the time
+[20:10:38] <ryannathans> bah
+[20:10:48] <svict4> english does go towards ur ATAR score?
+[20:10:53] <ryannathans> NOT YOU TOO
+[20:10:54] <MatthewJA> good job queenslander
+[20:10:59] <MatthewJA> you are more correct than ryan
+[20:11:12] <svict4> :D
+[20:12:51] <svict4> well in our system, it is the the 5 top _eligible_ subjects that is counted
+[20:12:56] <MatthewJA> "To be eligible for an ATAR in 2011 you must satisfactorily complete at least 10 units of ATAR courses. These ATAR courses  must include at least:  eight units from Category A courses  two units of English  three Board Developed courses of two units  four subjects."
+[20:13:07] <svict4> so, unless you are doing pretty bad at english then it wouldn't count
+[20:13:19] <svict4> and yeah you MUST do math and english
+[20:13:24] <MatthewJA> makes me rage
+[20:13:26] <spake> MatthewJA: perhaps it works different in other states?
+[20:13:39] <MatthewJA> If it does
+[20:13:41] <LaoD> ryannathans: http://www.uac.edu.au/documents/atar/ATAR-FAQs.pdf Page 20, first paragraph
+[20:13:42] <NCSSBot> ATAR-FAQs.pdf: application/pdf (1.0MB)
+[20:13:42] <ryannathans> must do math?
+[20:13:43] <MatthewJA> then it's unfairly being compared
+[20:13:44] <ryannathans> not here
+[20:13:46] <MatthewJA> against other states
+[20:13:57] <LaoD> ryannathans No, maths is not compulsory
+[20:14:06] <svict4> (╯°□°）╯︵ ┻━┻ freaking wish the national curriculum would come in already
+[20:14:10] <MatthewJA> yes that
+[20:14:11] <LaoD> ^^
+[20:14:20] <MatthewJA> plz no more talk about english kthx
+[20:14:21] <MatthewJA> makes me rage
+[20:14:30] <LaoD> xD
+[20:14:36] <ryannathans> https://www.youtube.com/watch?v=PYrgjMubh-c&feature=related
+[20:14:38] <NCSSBot> Title: Fast Math Tricks - How to multiply 2 digit numbers up to 100 - the fast way!      - YouTube
+[20:14:38] <ryannathans> wrong link
+[20:14:44] <MatthewJA> ...
+[20:14:45] <LaoD> xD
+[20:14:51] <MatthewJA> "USE A CALCULATOR"
+[20:14:54] <MatthewJA> = the contents of that video
+[20:14:56] <svict4> ahaha
+[20:14:57] <LaoD> busted by the bot~
+[20:15:05] <spake> "The ATAR is calculated from an 
+[20:15:06] <spake> aggregate of scaled marks of ATAR courses, 
+[20:15:06] <spake> including two units of English and the best eight 
+[20:15:06] <spake> units from the remaining courses (according to 
+[20:15:06] <spake> the ATAR rules)."
+[20:15:20] <ryannathans> https://www.youtube.com/watch?v=RcjhtFfBrCI <-- no english in your atar
+[20:15:22] <NCSSBot> Title: Do Maths and English subjects have to be counted in my ATAR score?      - YouTube
+[20:15:25] <LaoD> lol \n lol
+[20:15:28] <ryannathans> that's a WA video
+[20:15:41] <ryannathans> BOOM
+[20:15:45] <MatthewJA> if english is not counted in the atar in non-nsw states
+[20:15:46] <MatthewJA> that's bullshit
+[20:15:48] <ryannathans> no english in my atar, thanks.
+[20:15:58] <MatthewJA> because it means nsw students are at a disadvantage
+[20:16:01] <ryannathans> hahahah
+[20:16:02] <ryannathans> sucked in
+[20:16:08] * ryannathans wins
+[20:16:11] <MatthewJA> I'm serious
+[20:16:26] <ryannathans> it says it's your best 4 subjects
+[20:16:38] <ryannathans> "english is required but doesn't go towards atar if it isn't one of the top 4"
+[20:17:19] <LaoD> ryannathans: I just gave you the official UAC document.
+[20:17:28] <ryannathans> LaoD: and?
+[20:17:42] <DpEpsilon> well
+[20:17:45] <LaoD> ryannathans: Are you going to believe that or a youtube vid with 180 views?
+[20:17:50] <ryannathans> that video was posted by our biggest university
+[20:17:50] <DpEpsilon> there's still time for me then.
+[20:17:52] <MatthewJA> lol laod
+[20:17:58] <MatthewJA> lol biggest uni in WA
+[20:18:02] <spake> DpEpsilon: move to another state!
+[20:18:05] <svict4> ryannathans: that's the same with us only its the top 5 subjects
+[20:18:08] <DpEpsilon> spake: :D
+[20:18:13] <DpEpsilon> spake: or new zealand
+[20:18:16] <ryannathans> svict4: woo
+[20:18:22] <ryannathans> DpEpsilon: not enough tabs?
+[20:18:26] <MatthewJA> move to a country that doesn't have such a mediocre educational system
+[20:18:27] <ryannathans> or actually talking to spake 
+[20:18:28] <DpEpsilon> spake: english isn't mandatory in y12.
+[20:18:37] * ryannathans dances around
+[20:19:38] <DpEpsilon> !slap ryannathans 
+[20:19:52] * MatthewJA drives to WA
+[20:19:52] <LaoD> ^^
+[20:19:54] <svict4> DpEpsilon: wait wut? english isn't mandatory in new zealand?
+[20:20:07] * MatthewJA whacks ryannathans with an english textbook
+[20:20:09] <MatthewJA> the best bit is
+[20:20:16] <MatthewJA> 3/4 of this textbook isn't relevant to my course
+[20:20:17] <MatthewJA> woo
+[20:20:19] <DpEpsilon> svict4: not in year 13
+[20:20:21] <DpEpsilon> *12
+[20:20:30] <LaoD> I am actually going to perth on thursday :D
+[20:20:44] <LaoD> Yay mid term holiday <3
+[20:20:50] <svict4> DpEpsilon: mad, reminds of the NCSS challenge 2011 beginner question "Fush and Chups"
+[20:20:58] <ryannathans> MatthewJA: i have to get  >50% in engrish
+[20:21:00] <DpEpsilon> hehe
+[20:21:41] <MatthewJA> so who here likes mafia
+[20:22:15] <svict4> OH GOD NO
+[20:22:18] <svict4> STOP, RIGHT NOW
+[20:22:47] <MatthewJA> whai
+[20:22:50] <svict4> Good.
+[20:22:55] <MatthewJA> are you a mafia hater
+[20:23:02] <MatthewJA> because it kills all the mafia
+[20:23:12] <svict4> 2 years worth of just mafia gets to you :P
+[20:23:16] <MatthewJA> and killing mafia is not in your interests
+[20:23:17] <svict4> well 2+ years worth
+[20:23:36] <svict4> I leave the mafia to their own devices. World peace brruuuuu
+[20:23:39] <MatthewJA> sounds like you are a mafia, svict4
+[20:23:54] * MatthewJA lynches the guy in the green shirt
+[20:23:55] <DpEpsilon> :D
+[20:23:58] <DpEpsilon> mafia bot!
+[20:24:19] <MatthewJA> need to get jacob here
+[20:24:19] <MatthewJA> and lynch him
+[20:26:53] <Sugarloaf0> Woah
+[20:26:55] <Sugarloaf0> So much conversation.
+[20:26:58] <LaoD> how do you send a private message?
+[20:27:02] <Sugarloaf0> Yet I felt obliged to read it all.
+[20:27:09] <LaoD> xD
+[20:27:22] <Sugarloaf0> I laugh at all of you people complaining about English. It's my best subject. :P
+[20:27:30] <LaoD> Out.
+[20:27:32] <LaoD> Now.
+[20:27:39] <LaoD> Heretic.
+[20:27:58] <LaoD> D:<
+[20:28:01] <Sugarloaf0> spake: You mentioned a BBC stream of the Olympics earlier? Could you point me towards it?
+[20:28:47] <LaoD> Asgf
+[20:29:04] <Sugarloaf0> I don't see why you guys complain so much. Just suck it up and do your damn English work.
+[20:29:18] <spake> Sugarloaf0: it's on the BBC site
+[20:29:29] <Sugarloaf0> spake: *looks*
+[20:29:40] <spake> Sugarloaf0: but, you need to use http://unblock-us.com/
+[20:29:43] <NCSSBot> Title: Unblock Us - smarter faster VPN
+[20:31:06] [disconnected at Tue Aug 07 20:31:06 2012]
+[20:31:09] [connected at Tue Aug 07 20:31:09 2012]
+[20:31:39] <LaoD> I am a bot! Hey guys! :D
+[20:31:39] <Botten_Lao> I am a bot! Hey guys! :D
+[20:31:40] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:40] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:40] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:42] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:42] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:42] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:43] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:43] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:43] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:44] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:44] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:44] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:45] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:45] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:46] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:46] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:46] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:47] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:47] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:48] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:48] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:49] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:49] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:50] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:50] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[20:31:50] [disconnected at Tue Aug 07 20:31:50 2012]
+[21:47:04] [connected at Tue Aug 07 21:47:04 2012]
+[21:48:27] <LaoD> ping
+[21:48:36] <LaoD> asgfsdg
+[21:48:37] <Botten_Lao> asgfsdg
+[21:48:37] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:37] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:37] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:38] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:38] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:38] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:38] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:39] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:39] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:39] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:40] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:40] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:41] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:41] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:42] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:42] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:43] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:43] <Botten_Lao> It isn't nice to whisper!  Play nice with the group.
+[21:48:44] [disconnected at Tue Aug 07 21:48:44 2012]
+[21:51:58] [connected at Tue Aug 07 21:51:58 2012]
+[21:52:12] <Laodicean> ping
+[21:52:20] <Laodicean> asdsgf
+[21:52:33] <Sugarloaf0> shopping
+[21:52:38] <Laodicean> xD
+[21:52:41] <Laodicean> Nice.
+[21:53:35] <crackonice> whats this think about cheating on the forums?! :0
+[21:53:41] <Laodicean> ??
+[21:53:52] [disconnected at Tue Aug 07 21:53:52 2012]
+[21:53:54] [connected at Tue Aug 07 21:53:54 2012]
+[21:54:04] <crackonice> Some kid apparently posted a question on stackoverflow xD
+[21:54:11] <Laodicean> lol!
+[21:54:16] <Laodicean> nicefail xP
+[21:54:19] <Laodicean> pinh
+[21:54:20] <Laodicean> ping
+[21:54:26] <Laodicean> sadsg
+[21:54:26] <Botten_Lao> sadsg
+[21:54:26] <Botten_Lao> sadsg
+[21:54:27] <Botten_Lao> sadsg
+[21:54:27] <Botten_Lao> sadsg
+[21:54:27] <Botten_Lao> sadsg
+[21:54:28] <Botten_Lao> sadsg
+[21:54:28] <Botten_Lao> sadsg
+[21:54:28] <Botten_Lao> sadsg
+[21:54:29] <Botten_Lao> sadsg
+[21:54:29] <Botten_Lao> sadsg
+[21:54:29] <Botten_Lao> sadsg
+[21:54:30] <Botten_Lao> sadsg
+[21:54:30] <Botten_Lao> sadsg
+[21:54:30] [disconnected at Tue Aug 07 21:54:30 2012]
+[21:55:32] [connected at Tue Aug 07 21:55:32 2012]
+[21:55:50] <Sugarloaf0> For Botten_Lao: http://youtu.be/gri2I0SZwgQ
+[21:55:53] <NCSSBot> Title: YouTube Poop : Robotnik&#39;s Pingas Machine      - YouTube
+[21:55:54] <Laodicean> Troll all the people
+[21:56:09] <Sugarloaf0> I was hoping it would respond to the ping, :P
+[21:56:10] <Laodicean> Oh, thank you kindly :)
+[21:56:29] <Laodicean> You mean...
+[21:56:35] <Laodicean> Ping?
+[21:56:38] <Laodicean> Ping
+[21:56:39] <Botten_Lao> pong!
+[21:56:42] <Laodicean> loL!
+[21:56:48] <Sugarloaf0> ping
+[21:56:55] <Sugarloaf0> Ping
+[21:56:58] <Laodicean> I love this game <3
+[21:56:59] <Sugarloaf0> http://youtu.be/gri2I0SZwgQ
+[21:57:02] <NCSSBot> Title: YouTube Poop : Robotnik&#39;s Pingas Machine      - YouTube
+[21:57:06] <Sugarloaf0> ...
+[21:57:11] <Sugarloaf0> needs more pong
+[21:58:13] <Laodicean> /me is not amused.
+[21:58:20] <Laodicean> bawww
+[21:58:38] <Laodicean> Stupid IRC
+[21:59:00] Laodicean is now known as LaoD
+[22:00:27] <Sugarloaf0> Apparently it didn't respond.
+[22:00:28] <Sugarloaf0> Huh
+[22:00:36] <LaoD> :P
+[22:00:53] <Sugarloaf0> Socket must have died.
+[22:01:00] <LaoD> Inferior Bot, learn some respect for your coder.
+[22:09:42] <LaoD> so quiet.....
+[22:09:54] <Sugarloaf0> LaoD: People tend to do things, :P.
+[22:10:04] <Sugarloaf0> I'm just sitting here doing some calc.
+[22:11:15] <ryannathans> i'm just sitting here doing homework
+[22:11:22] <ryannathans> yeah for the past 12 hours
+[22:11:26] <ryannathans> its so dumb
+[22:13:36] <Sugarloaf0> Why?
+[22:15:05] <ACWL|AFK> haaaaa~
+[22:15:14] ACWL|AFK is now known as AClockWorkLemon
+[22:19:25] <AClockWorkLemon> heya there smelhuish :3
+[22:19:38] <smelhuish> heya
+[22:19:55] <AClockWorkLemon> it's a bit quiet at the moment...
+[22:19:58] <AClockWorkLemon> unfortunately
+[22:26:28] <LaoD> well, I'm off soon :)
+[22:26:37] <AClockWorkLemon> cya LaoD~
+[22:26:40] <LaoD> ping
+[22:26:43] <LaoD> <3
+[22:26:46] <Sugarloaf0> shopping
+[22:26:49] <Sugarloaf0> darn
+[22:26:51] <AClockWorkLemon> ping
+[22:26:54] <Sugarloaf0> Fixed it, :P
+[22:26:54] <LaoD> baha!
+[22:26:56] <AClockWorkLemon> dat bot man
+[22:26:59] <AClockWorkLemon> dat bot
+[22:27:09] <AClockWorkLemon> @wiki IRC
+[22:27:10] <NCSSBot> IRCAM: IRCAM (Institut de Recherche et Coordination Acoustique/Musique) is a European institute for science about music and sound and avant garde electro-acoustical art music. 
+[22:27:12] <LaoD> Oh, I try :)
+[22:27:17] <AClockWorkLemon> LOL
+[22:27:24] <LaoD> xD
+[22:27:30] <AClockWorkLemon> man, that wiki API is pretty shocking
+[22:27:34] <LaoD> :P
+[22:27:45] <AClockWorkLemon> i should see if i can find a betterway of doing it
+[22:27:58] <IceDingo> AClockWorkLemon, you saw the "@wiki test" before?
+[22:28:04] <AClockWorkLemon> no...
+[22:28:06] <AClockWorkLemon> @w test
+[22:28:07] <Sugarloaf0> @wiki test
+[22:28:08] <NCSSBot> Testicle: The testicle (from Latin testiculus, diminutive of testis, meaning &quot;witness&quot; of virility, plural testes) is the male gonad in animals. 
+[22:28:10] <IceDingo> heh,
+[22:28:13] <AClockWorkLemon> AHAHAHAHAHAHAHAHA
+[22:28:16] <AClockWorkLemon> @reload
+[22:28:19] <AClockWorkLemon> @w test
+[22:28:20] <Sugarloaf0> @wiki goats
+[22:28:21] <NCSSBot> Goats Head Soup: Goats Head Soup is the 11th British and 13th American studio album by The Rolling Stones, released in 1973. It featured the song &quot;Angie&quot;, which went to #1 as a single in the US and top 5 in the UK.
+[22:28:26] <IceDingo> hshshs
+[22:28:28] <LaoD> WUT
+[22:28:35] <IceDingo> @wiki wiki
+[22:28:36] <LaoD> that's HORRIBLE
+[22:28:37] <NCSSBot> Wikipedia: Wikipedia ( or  ) is a free, collaboratively edited, and multilingual Internet encyclopedia supported by the non-profit Wikimedia Foundation. 
+[22:28:47] <Sugarloaf0> I was tempted to add the extra e.
+[22:28:49] * LaoD facepalm
+[22:28:55] <AClockWorkLemon> @wiki goatse
+[22:28:56] <LaoD> @wiki fail
+[22:28:57] <NCSSBot> Goatse Security: Goatse Security (GoatSec) is a loose-knit, nine-person grey hat hacker group that specializes in uncovering security flaws. 
+[22:28:57] <NCSSBot> Failure: Failure is the state or condition of not meeting a desirable or intended objective, and may be viewed as the opposite of . 
+[22:28:59] <Sugarloaf0> Lol
+[22:29:02] <AClockWorkLemon> @wiki goat
+[22:29:03] <NCSSBot> Goat-antelope: A goat-antelope or caprid is any of the species of mostly medium-sized bovids that make up the subfamily Caprinae (as treated here), part of the Bovidae family of ruminants. 
+[22:29:07] <AClockWorkLemon> OK
+[22:29:08] <Sugarloaf0> @wiki goa
+[22:29:08] <NCSSBot> Goalkeeper (association football): In association football, the goalkeeper occupies a position that represents the last line of defence between opposing attackers and his own team's goal. 
+[22:29:11] <AClockWorkLemon> MOTHER OF GOD
+[22:29:21] <AClockWorkLemon> THIS API IS THE MOST PATHETIC EXCUSE FOR AN API I'VE SEEN
+[22:29:26] <IceDingo> hey don't worry, failure is the opposite of .
+[22:29:26] <LaoD> @wiki mother of god
+[22:29:27] <AClockWorkLemon> i look up goat
+[22:29:28] <NCSSBot> Mother of God Roman Catholic Church (Covington, Kentucky): Mother of God Parish () is a parish church of the Roman Catholic Diocese of Covington, Kentucky, United States, located at 119 West 6th Street in Covington. 
+[22:29:34] <Sugarloaf0> @wiki fudge packer
+[22:29:34] <LaoD> L0L
+[22:29:36] <LaoD> night
+[22:29:37] <AClockWorkLemon> and i get goat-antelope
+[22:29:40] <AClockWorkLemon> cya dude
+[22:29:44] <AClockWorkLemon> DAFUQ
+[22:29:55] [disconnected at Tue Aug 07 22:29:55 2012]
+[11:52:42] [connected at Wed Aug 08 11:52:42 2012]
+[11:53:07] <LaoD> Well, I finished all this week's advanced questions within an hour... :P
+[11:53:28] [disconnected at Wed Aug 08 11:53:28 2012]
+[11:55:43] [connected at Wed Aug 08 11:55:43 2012]
+[11:56:00] <LaoD> Ah, I see :)
+[11:56:01] <NGat> This is awesome!
+[11:56:39] <LaoD> pign
+[11:56:42] <LaoD> ping
+[11:56:44] <NGat> I have 1 desktop and 2 tablet computers, so I just fold the screen over my 2 keyboards, and it's like I've got 3 screens! :P
+[11:56:59] <LaoD> huh, I love this exception handling in twisted <3
+[11:57:08] [disconnected at Wed Aug 08 11:57:08 2012]
+[11:57:12] [connected at Wed Aug 08 11:57:12 2012]
+[11:58:36] [disconnected at Wed Aug 08 11:58:36 2012]
+[11:58:39] [connected at Wed Aug 08 11:58:39 2012]
+[11:59:19] <LaoD> I am a bot!
+[11:59:59] <NGat> I discriminate against bots
+[12:00:25] [disconnected at Wed Aug 08 12:00:25 2012]
+[12:00:28] [connected at Wed Aug 08 12:00:28 2012]
+[12:00:46] <LaoD> >:(
+[12:00:55] <LaoD> Not amused.
+[12:01:06] <LaoD> !wordgame
+[12:01:08] <NGat> :)
+[12:01:17] <LaoD> :P
+[12:01:23] <LaoD> K, be back later :D
+[12:01:25] [disconnected at Wed Aug 08 12:01:25 2012]
+[12:46:25] [connected at Wed Aug 08 12:46:25 2012]
+[12:46:53] <LaoD> !wordgame
+[12:52:36] [connected at Wed Aug 08 12:52:36 2012]
+[12:53:12] <LaoD> Yeah, he was up past 0330 doing it xD
+[12:53:25] <LaoD> !wordgame
+[12:53:30] <spake> hey, i implemented that! :P
+[12:53:49] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 updated post
+[12:54:04] <LaoD> So, do you parse the webcode into the bot?
+[12:54:06] <jamylak> hehe too bad I have exam week 
+[12:54:09] <LaoD> ping
+[12:55:07] <spake> LaoD: the challenge site has a JSON API that the client uses to communicate with the server
+[12:55:22] <LaoD> oh, ok.
+[12:55:52] <LaoD> I don't get networking.. It's a bit of a fail when your dad lectures Networking at CSU xD
+[12:56:11] <spake> heh
+[12:56:56] <LaoD> ping
+[12:57:33] <LaoD> Seb is a really ch
+[12:58:05] [disconnected at Wed Aug 08 12:58:05 2012]
+[14:46:27] [connected at Wed Aug 08 14:46:27 2012]
+[14:46:49] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 updated post
+[14:47:03] <LaoD> !wordgame
+[14:47:26] <LaoD> >:(
+[14:49:08] <jamylak> hi
+[14:49:21] <LaoD> hay :)
+[14:50:15] [disconnected at Wed Aug 08 14:50:15 2012]
+[14:50:17] [connected at Wed Aug 08 14:50:17 2012]
+[14:50:53] <LaoD> !wordgame
+[14:51:16] [disconnected at Wed Aug 08 14:51:16 2012]
+[14:51:18] [connected at Wed Aug 08 14:51:18 2012]
+[14:51:45] <LaoD> !wordgame
+[14:52:48] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 updated post
+[14:55:35] [disconnected at Wed Aug 08 14:55:35 2012]
+[14:55:38] [connected at Wed Aug 08 14:55:38 2012]
+[14:55:57] <LaoD> !wordgame
+[14:57:26] [disconnected at Wed Aug 08 14:57:26 2012]
+[14:57:29] [connected at Wed Aug 08 14:57:29 2012]
+[14:58:00] <LaoD> !wordgame
+[14:58:33] [disconnected at Wed Aug 08 14:58:33 2012]
+[14:58:36] [connected at Wed Aug 08 14:58:36 2012]
+[14:58:52] <LaoD> !wordgame
+[14:59:45] [disconnected at Wed Aug 08 14:59:45 2012]
+[14:59:48] [connected at Wed Aug 08 14:59:48 2012]
+[15:00:09] <LaoD> !wordgame
+[15:00:59] [disconnected at Wed Aug 08 15:00:59 2012]
+[15:01:02] [connected at Wed Aug 08 15:01:02 2012]
+[15:01:28] <LaoD> !wordgame
+[15:01:34] <LaoD> YEAHA
+[15:02:16] <LaoD> ping
+[15:02:21] [disconnected at Wed Aug 08 15:02:21 2012]
+[15:10:44] [connected at Wed Aug 08 15:10:44 2012]
+[15:12:07] <LaoD> !wordgame
+[15:12:10] [disconnected at Wed Aug 08 15:12:10 2012]
+[15:12:22] [connected at Wed Aug 08 15:12:22 2012]
+[15:12:40] <LaoD> !wordgame
+[15:13:00] <LaoD> bit
+[15:13:10] <LaoD> gvadhksfnkja
+[15:13:25] <LaoD> brit
+[15:13:32] <LaoD> tep
+[15:13:36] <LaoD> bit
+[15:13:41] <LaoD> bitten
+[15:13:58] [disconnected at Wed Aug 08 15:13:58 2012]
+[15:16:21] [connected at Wed Aug 08 15:16:21 2012]
+[15:16:43] <LaoD> !wordgame
+[15:16:47] <LaoD> set
+[15:17:06] [disconnected at Wed Aug 08 15:17:06 2012]
+[15:17:41] [connected at Wed Aug 08 15:17:41 2012]
+[15:18:00] <LaoD> !wordgame
+[15:18:10] <LaoD> fail
+[15:18:28] <LaoD> cir
+[15:18:34] <robots_rock> Hi
+[15:18:38] <LaoD> cira
+[15:18:49] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 new post
+[15:18:50] <LaoD> Hey, friend :)
+[15:19:21] <LaoD> !wordgame
+[15:19:28] <LaoD> !wordgame
+[15:20:02] <LaoD> olk
+[15:20:03] <LaoD> cod
+[15:20:24] [disconnected at Wed Aug 08 15:20:24 2012]
+[15:21:33] [connected at Wed Aug 08 15:21:33 2012]
+[15:23:09] [disconnected at Wed Aug 08 15:23:09 2012]
+[16:07:12] [connected at Wed Aug 08 16:07:12 2012]
+[16:07:55] <AdGold> yeah
+[16:08:00] <LaoD> AdGold: It will only send a message for each post once.
+[16:08:34] <LaoD> !wordgame
+[16:08:39] <spake> AdGold: it'll post at most every 60 seconds
+[16:08:42] <LaoD> !wordgame
+[16:08:48] <AdGold> spake, ah ok
+[16:08:48] <LaoD> is
+[16:08:51] <spake> AdGold: if it gets too annoying later on, it can be changed to a greater interval
+[16:08:59] <AdGold> yeah
+[16:09:05] <LaoD> lol :P
+[16:10:19] <jamylak> hi
+[16:10:27] <grc> hey
+[16:12:43] <NCSSBot> General Discussion: 1 updated post
+[16:13:45] [disconnected at Wed Aug 08 16:13:45 2012]
+[16:13:47] [connected at Wed Aug 08 16:13:47 2012]
+[16:14:06] <LaoD> !wordgame
+[16:14:15] <LaoD> cup
+[16:15:17] <grc> jamylak, you're on stackoverflow and codegolf.se right?
+[16:15:25] [disconnected at Wed Aug 08 16:15:25 2012]
+[16:15:27] [connected at Wed Aug 08 16:15:27 2012]
+[16:15:43] <LaoD> :P
+[16:15:47] <LaoD> !wordgame
+[16:15:51] <grc> i remember seeing you a while ago
+[16:15:52] <LaoD> ten
+[16:16:01] <grc> before the challegne
+[16:16:01] <jamylak> what was the question?
+[16:16:02] <DpEpsilon> bent
+[16:16:07] <jamylak> :D
+[16:16:20] <grc> idk
+[16:16:24] <LaoD> DpEpsilon: Not working just yet :S
+[16:16:26] <grc> probably one of the codegolf ones
+[16:16:35] <DpEpsilon> LaoD: alright
+[16:16:37] <jamylak> I only have 2 codegolfs
+[16:17:02] <jamylak> one of them was a past question from NCSS
+[16:17:17] <jamylak> I wanted to see if anybody could make a shorter python one but it seems not
+[16:18:00] <LaoD> I'm horrible at both golf and golf... xD
+[16:18:08] <grc> yeah i saw that question
+[16:18:21] <grc> and i recognised your logo from stackoverflow :D
+[16:18:30] <grc> or avatar
+[16:18:32] <grc> w/e its called
+[16:18:34] <jamylak> yea, the classic apple
+[16:18:40] <jamylak> back when apple was created
+[16:18:44] <jamylak> they used that
+[16:19:04] [disconnected at Wed Aug 08 16:19:04 2012]
+[16:19:06] [connected at Wed Aug 08 16:19:06 2012]
+[16:19:27] <LaoD> !wordgame
+[16:19:31] <LaoD> tan
+[16:19:43] <NCSSBot> General Discussion: 1 updated post
+[16:19:46] <LaoD> lol??
+[16:19:50] <DpEpsilon> wat?
+[16:20:24] <LaoD> The bot read it's own message.. the list of all the letters xD
+[16:20:27] <LaoD> lmao
+[16:20:43] <NCSSBot> Posts about Week 1 Questions: 1 new post
+[16:21:13] [disconnected at Wed Aug 08 16:21:13 2012]
+[16:21:16] [connected at Wed Aug 08 16:21:16 2012]
+[16:21:33] <LaoD> !wordgame
+[16:21:44] <NCSSBot> General Discussion: 1 updated post
+[16:21:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[16:21:52] [disconnected at Wed Aug 08 16:21:52 2012]
+[16:21:54] [connected at Wed Aug 08 16:21:54 2012]
+[16:22:14] <LaoD> !wordgame
+[16:22:18] <LaoD> ran
+[16:22:44] <NCSSBot> General Discussion: 1 updated post
+[16:22:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[16:23:46] [disconnected at Wed Aug 08 16:23:46 2012]
+[16:23:48] [connected at Wed Aug 08 16:23:48 2012]
+[16:24:43] <NCSSBot> General Discussion: 1 updated post
+[16:25:07] <LaoD> !wordgame
+[16:25:25] <LaoD> wud
+[16:25:33] <LaoD> !wordgame
+[16:25:44] <NCSSBot> General Discussion: 1 updated post
+[16:25:48] <LaoD> !wordgame
+[16:26:06] <LaoD> !wordgame
+[16:26:13] <LaoD> !wordgame
+[16:26:26] <LaoD> saw
+[16:26:30] <LaoD> saw
+[16:26:32] <LaoD> !wordgame
+[16:26:41] <LaoD> den
+[16:26:43] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[16:27:12] <IceDingo> what is this? Nobody got a word?
+[16:27:15] <IceDingo> Hi everyone :P
+[16:27:24] <jamylak> hey
+[16:27:25] <LaoD> Hi :P
+[16:27:56] <LaoD> Yeah, I'm being rather buggy at the moment... it's funny watching LaoD rage at me xD
+[16:28:43] <NCSSBot> General Discussion: 1 updated post
+[16:28:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[16:29:03] <jamylak> now I can answer posts instantly thanks to this
+[16:29:37] <spake> hehehe
+[16:29:38] <LaoD> xD
+[16:29:52] <LaoD> Oh, how easy bots make life :P
+[16:29:53] <spake> you can even set up your IRC client to notify you whenever 'updated post' is mentioned
+[16:30:00] <jamylak> i did
+[16:30:01] <jamylak> :D
+[16:30:06] <LaoD> I just set it to beep :P
+[16:30:23] <LaoD> updated post
+[16:30:24] <LaoD> updated post
+[16:30:24] <LaoD> updated post
+[16:30:25] <LaoD> updated post
+[16:30:27] <LaoD> trolol
+[16:30:33] <jamylak> ouch
+[16:30:35] <jamylak> lol
+[16:30:46] <jamylak> although If I want full spode I will probably have to copy your code and set it to a faster timer
+[16:30:49] <jamylak> *speed
+[16:30:54] <LaoD> spam all the notifications!
+[16:31:02] <spake> haha, don't kill the servers :P
+[16:31:14] <LaoD> like that's uncommon.
+[16:31:16] <jamylak> does ncss have RSS feed by any chance?
+[16:31:17] <spake> they haven't had a problem with the bots in the past
+[16:31:25] <LaoD> I don't think so.
+[16:31:33] <spake> but if everyone starts polling the site every few seconds they just might :)
+[16:31:39] <spake> no RSS feeds i'm aware of
+[16:31:40] <LaoD> hahaha
+[16:31:58] <jamylak> hmmn ye
+[16:32:13] <jamylak> I'll just stick with this to be safge
+[16:32:38] <LaoD> does anyone here us pydev with eclipse?
+[16:33:35] <spake> jamylak: you have become addicted to speed-helping people!
+[16:33:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[16:34:15] <LaoD> gogogo!
+[16:34:18] <jamylak> ye I do the same thing with Stack Overflow so now I have 2 sites to do it for :D
+[16:34:45] <NCSSBot> General Discussion: 1 updated post
+[16:36:02] <jamylak> reason being: on SO you have to answer within 30s - 1min otherwise someone else already has
+[16:40:43] <NCSSBot> General Discussion: 1 updated post
+[16:47:21] [disconnected at Wed Aug 08 16:47:21 2012]
+[16:48:36] [connected at Wed Aug 08 16:48:36 2012]
+[16:48:59] <LaoD> Heya :)
+[16:49:17] <LaoD> !wordgame
+[16:49:25] <LaoD> try
+[16:49:29] [disconnected at Wed Aug 08 16:49:29 2012]
+[16:51:40] [connected at Wed Aug 08 16:51:40 2012]
+[16:54:43] <NCSSBot> General Discussion: 1 updated post
+[17:00:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[17:02:40] <jamylak> hi
+[17:03:02] <LaoD> !wordgame
+[17:03:08] <LaoD> red
+[17:03:20] <LaoD> fled
+[17:03:43] <NCSSBot> General Discussion: 1 updated post
+[17:03:44] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[17:03:57] <LaoD> !!! soooo close :D
+[17:04:28] <DpEpsilon> another round!
+[17:04:31] <DpEpsilon> !wordgame
+[17:04:40] <DpEpsilon> hi
+[17:04:46] <DpEpsilon> hmm
+[17:04:49] <LaoD> ahaha, It only works for a PM by me
+[17:05:30] <LaoD> It's deleting the letters it uses to check the words somewhere :P
+[17:06:46] [disconnected at Wed Aug 08 17:06:46 2012]
+[17:06:48] [connected at Wed Aug 08 17:06:48 2012]
+[17:07:02] <Schnommus> Hmm..
+[17:07:02] <Durkkn> ..mmH
+[17:07:11] <LaoD> omg
+[17:07:11] <Durkkn> gmo
+[17:07:17] <LaoD> I sense a makarov.
+[17:07:18] <Durkkn> .vorakam a esnes I
+[17:07:37] <Schnommus> Nah - markov's been done before
+[17:07:38] <Durkkn> erofeb enod neeb s'vokram - haN
+[17:07:39] <LaoD> >:(
+[17:07:39] <Durkkn> (:>
+[17:07:44] <LaoD> WUT
+[17:07:45] <Durkkn> TUW
+[17:07:57] <LaoD> It turned my frown into a smile!! xD
+[17:07:57] <Durkkn> Dx !!elims a otni nworf ym denrut tI
+[17:08:06] <Schnommus> lol
+[17:08:06] <Durkkn> lol
+[17:08:15] <IceDingo> party! <:)
+[17:08:15] <Durkkn> ):< !ytrap
+[17:08:15] <Schnommus> Palindrome..
+[17:08:16] <LaoD> ./ignore
+[17:08:16] <Durkkn> ..emordnilaP
+[17:08:16] <Durkkn> erongi/.
+[17:08:47] <LaoD> !wordgame
+[17:08:49] <Schnommus> Turned it off
+[17:08:56] <LaoD> fur
+[17:08:59] <IceDingo> quiz
+[17:09:06] <LaoD> lol
+[17:09:12] <LaoD> I used your "U" xD
+[17:09:13] <IceDingo> quiff? :P
+[17:09:16] <IceDingo> ahno!
+[17:09:23] <LaoD> it's deleting the letters >_>
+[17:09:26] <IceDingo> miff
+[17:09:38] <IceDingo> interesting :P
+[17:09:54] <IceDingo> what happens if you just type all the letters?
+[17:12:16] [connected at Wed Aug 08 17:12:16 2012]
+[17:12:32] <LaoD> I'll ping you when I fix it.
+[17:12:52] <LaoD> !wordgame
+[17:13:02] <LaoD> not
+[17:17:03] [connected at Wed Aug 08 17:17:03 2012]
+[17:17:21] <LaoD> !wordgame
+[17:20:55] [disconnected at Wed Aug 08 17:20:55 2012]
+[17:20:57] [connected at Wed Aug 08 17:20:57 2012]
+[17:21:14] <LaoD> !wordgame
+[17:21:24] <LaoD> lit
+[17:21:25] <DpEpsilon> lily
+[17:21:33] <DpEpsilon> tax
+[17:21:41] <IceDingo> mast
+[17:21:42] <DpEpsilon> mail
+[17:21:45] <DpEpsilon> :D
+[17:21:53] <IceDingo> wait no s derp
+[17:22:09] <LaoD> why didn't it pass lily?
+[17:22:17] <IceDingo> capitals?
+[17:22:22] <DpEpsilon> no
+[17:22:25] <IceDingo> waitiitiitit
+[17:22:32] <IceDingo> lily yea haha
+[17:22:34] <LaoD> nope, my failcoding
+[17:22:36] <DpEpsilon> wut
+[17:22:41] <DpEpsilon> LaoD: what happen?
+[17:22:52] <DpEpsilon> somebody set us up the bomb?
+[17:23:35] <LaoD> no, it now doesn't account for multiple letters
+[17:23:42] <LaoD> still better than before xD
+[17:23:58] <LaoD> I have no idea why it is doing these things to itself xD
+[17:24:38] [disconnected at Wed Aug 08 17:24:38 2012]
+[17:24:40] [connected at Wed Aug 08 17:24:40 2012]
+[17:25:00] <LaoD> !wordgame
+[17:25:10] <Schnommus> :)
+[17:25:18] <LaoD> !wordgame
+[17:25:24] <LaoD> ting
+[17:25:27] <IceDingo> zing
+[17:25:27] <LaoD> ming
+[17:25:35] <LaoD> a
+[17:25:48] <LaoD> ok, who wants to help me debug?
+[17:25:51] ACWL|AFK is now known as AClockWorkLemon
+[17:26:00] <AClockWorkLemon> BOOM
+[17:26:01] <LaoD> Hey lemon
+[17:26:04] <DpEpsilon> LaoD: I would, but I'm a tad busy with debugging my own stuff.
+[17:26:08] <IceDingo> it should only count first ones right?
+[17:26:23] <LaoD> it's deleting the letters again
+[17:26:30] <LaoD> I've narrowed it down to a few lines
+[17:26:42] <IceDingo> something to do with copying a list
+[17:26:47] <LaoD> self.letters = self.originals
+[17:26:47] <LaoD>         for letter in word:
+[17:26:47] <LaoD>             print letter,"".join(self.letters),"".join(self.originals) 
+[17:26:47] <LaoD>             if letter in self.originals and letter in self.letters:
+[17:26:47] <LaoD>                 print "Removing",letter
+[17:26:48] <LaoD>                 self.letters.remove(letter)
+[17:26:48] <IceDingo> but it doesn't actually copy
+[17:26:49] <LaoD>                 continue
+[17:26:51] <LaoD>             else:
+[17:26:52] <AClockWorkLemon> i just had the best idea for an IRC game
+[17:26:53] <LaoD>                 return
+[17:26:58] <AClockWorkLemon> and it's a sekrit
+[17:27:03] <LaoD> :P
+[17:27:10] <AClockWorkLemon> gonna see if i can get it working
+[17:27:18] <DpEpsilon> also, about to go home.
+[17:27:22] <IceDingo> AClockWorkLemon, look forward to it
+[17:27:25] <LaoD> so, can anyone see how the originals list could be modified in that code?
+[17:27:30] <DpEpsilon> AClockWorkLemon: inb4 mafia.
+[17:27:32] <AClockWorkLemon> spake: you here?
+[17:27:34] <LaoD> >_>
+[17:27:36] <AClockWorkLemon> DpEpsilon: not mafia
+[17:27:41] <LaoD> ^
+[17:27:44] <IceDingo> like i said^
+[17:27:48] <DpEpsilon> yes! I can write that!
+[17:28:07] <IceDingo> so it removes it from letters and originals right?
+[17:28:17] <spake> AClockWorkLemon: yeah
+[17:28:30] <grc> try: self.letters = self.originals[:]
+[17:28:31] <LaoD> IceDingo: Yeah, but it's only meant to touch letters and leave the orignals.
+[17:28:34] <AClockWorkLemon> spake: are you using the incoming/outgoing hooks in challengebot.py?
+[17:28:35] <Doink> Spake: are you using the solar hooks in challengebot.py?
+[17:28:41] <grc> so you copy it rather than copy the reference
+[17:28:42] <Doink> So you copy it rather than copy the conducting
+[17:28:48] <spake> wut
+[17:28:49] <IceDingo> LaoD, do what grc says :)
+[17:28:50] <Doink> Transition
+[17:28:50] <Doink> Cell do what grc says :)
+[17:28:51] <AdGold> LaoD, try letters = originals[::]
+[17:28:51] <Doink> Laod, try letters = nodes
+[17:29:00] <Schnommus> omg
+[17:29:00] <Doink> Inertial
+[17:29:01] <spake> AClockWorkLemon: no, i'm not
+[17:29:02] <Doink> Unit no, i'm not
+[17:29:07] <LaoD> SEB
+[17:29:08] <Doink> Device
+[17:29:17] <LaoD> Get that makarov out! xD
+[17:29:17] <Doink> Get that static out! xd
+[17:29:22] <AClockWorkLemon> mmk. and someone kill that doink bot
+[17:29:23] <Doink> Mmk. and symmetry kill that doink bot
+[17:29:26] <Schnommus> It's not a markov
+[17:29:26] <Doink> It's not a conical
+[17:29:33] <LaoD> NJ:HTSEGHBDYTXDFJGVKNJGYFTGFJ 4
+[17:29:33] <Doink> Computer 4
+[17:29:36] <spake> also, I know they're entertaining, but can we avoid having bots that spam continually like that?
+[17:29:36] <LaoD> lol
+[17:29:46] <Schnommus> Sorry guys
+[17:29:47] <Schnommus> :P
+[17:29:57] <AClockWorkLemon> @reload
+[17:30:00] <spake> no matter, but they do get very annoying very quickly :P
+[17:30:03] [disconnected at Wed Aug 08 17:30:03 2012]
+[17:30:05] [connected at Wed Aug 08 17:30:05 2012]
+[17:30:37] <LaoD> !wordgame
+[17:30:48] <DpEpsilon> men
+[17:30:59] <DpEpsilon> mien
+[17:30:59] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 updated post
+[17:31:03] <DpEpsilon> :D
+[17:31:07] <LaoD> :D :D :D
+[17:31:20] <LaoD> that solved it!
+[17:31:27] <DpEpsilon> it does french as well?
+[17:31:35] <LaoD> idk
+[17:31:55] <DpEpsilon> hmm, it's in words.txt
+[17:31:58] <LaoD> It's just an ~85000 word long dictionary
+[17:32:13] <DpEpsilon> LaoD: It's actually over 90000
+[17:32:14] <LaoD> pretty sure from oracle
+[17:32:18] <DpEpsilon> oh
+[17:32:19] <LaoD> !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[17:32:34] <DpEpsilon> anyway
+[17:32:40] <DpEpsilon> I'd better be off soon.
+[17:32:42] <DpEpsilon> bye
+[17:32:43] <LaoD> Ok, I'll just touch up that letter generation and add some more time
+[17:32:47] <LaoD> ok, cya
+[17:36:30] <Schnommus> hey doink
+[17:36:31] <Doink> Hey components
+[17:36:35] <Schnommus> yo
+[17:36:38] [disconnected at Wed Aug 08 17:36:38 2012]
+[17:37:03] [connected at Wed Aug 08 17:37:03 2012]
+[17:37:28] <LaoD> >_>
+[17:37:29] <Doink> Weapon
+[17:37:36] <LaoD> What's the point??
+[17:37:40] <LaoD> just to annoy?
+[17:37:41] <Doink> Just to welded
+[17:37:45] <LaoD> >_>
+[17:37:46] <Schnommus> Lol I don't know
+[17:37:49] <LaoD> xD
+[17:38:09] <Schnommus> How's it going doinus
+[17:38:09] <Doink> How's it going driver
+[17:39:07] <Schnommus> All it does is replace the longest word with a random one
+[17:39:47] <LaoD> adfasdfasdfasdfadfasfdasdfasdf oh really thats annoying
+[17:39:47] <Doink> Sweep oh really thats annoying
+[17:39:53] <LaoD> huh, :P
+[17:39:57] <LaoD> xD
+[17:40:05] [disconnected at Wed Aug 08 17:40:05 2012]
+[17:41:59] [connected at Wed Aug 08 17:41:59 2012]
+[17:42:23] <LaoD> type !wordgame :D
+[17:42:30] <Schnommus> !wordgame
+[17:42:39] <LaoD> pie
+[17:42:39] <DoinkBot> Chip
+[17:42:48] <Schnommus> lol doinkbot is playing
+[17:42:54] <LaoD> LOL!
+[17:43:35] <LaoD> hmmm....
+[17:43:35] <DoinkBot> Gel
+[17:43:39] <LaoD> ah
+[17:44:47] <Schnommus> Should write a bot that solves your bot
+[17:44:58] <LaoD> NO
+[17:44:58] <DoinkBot> Discriminator
+[17:45:03] <Schnommus> lol!
+[17:45:05] <LaoD> I thought you might do that
+[17:45:23] <Schnommus> Doinkbot knows the conversation
+[17:45:28] <LaoD> xD
+[17:45:29] <DoinkBot> Access
+[17:45:43] <LaoD> Come on, don't you have something better to do than annoy me? xD
+[17:46:03] <Schnommus> No :P
+[17:46:04] <DoinkBot> Integrated dorsal
+[17:46:19] <LaoD> >_>
+[17:46:44] <Schnommus> ripoff
+[17:46:45] <DoinkBot> Flex
+[17:46:51] <LaoD> ?
+[17:48:04] <Schnommus> trying to win that wordgame
+[17:48:05] <DoinkBot> Trying dissipation win that filaments
+[17:48:34] <LaoD> ?
+[17:48:35] <DoinkBot> Reaction
+[17:48:38] <Schnommus> buffier
+[17:48:38] <LaoD> !wordgame
+[17:48:44] <LaoD> boo
+[17:48:48] <LaoD> boot
+[17:48:56] <LaoD> oh, you broke it!
+[17:49:15] <Schnommus> robot
+[17:49:16] <DoinkBot> Acceleration
+[17:49:46] <Schnommus> How did I break it?
+[17:49:47] <DoinkBot> How did i load lock
+[17:50:11] <LaoD> idk, you tell me xD
+[17:50:14] <LaoD> !wordgame
+[17:50:31] <LaoD> bug
+[17:50:39] <Schnommus> gouge
+[17:51:06] <IceDingo> buggie
+[17:51:07] <SchnommBot> Buffer
+[17:51:15] <Schnommus> fugue
+[17:51:19] [disconnected at Wed Aug 08 17:51:19 2012]
+[17:51:22] [connected at Wed Aug 08 17:51:22 2012]
+[17:51:42] <LaoD> !wordgame
+[17:51:43] <SchnommBot> Optical
+[17:51:59] <LaoD> web
+[17:52:07] <Schnommus> bosses
+[17:52:08] <LaoD> webs
+[17:52:27] <Schnommus> obsess
+[17:52:27] <SchnommBot> Symmetry
+[17:52:29] <Schnommus> obeys
+[17:52:41] <Schnommus> skews
+[17:52:44] <Schnommus> wtf
+[17:52:47] <LaoD> it's over.
+[17:52:49] <LaoD> xD
+[17:52:50] <Schnommus> my word is better :O
+[17:53:11] <LaoD> obsess...?
+[17:53:12] <SchnommBot> Standard
+[17:53:29] <Schnommus> It would have worked?
+[17:53:49] <LaoD> yeah
+[17:53:50] <SchnommBot> Warp
+[17:53:53] <LaoD> >_>
+[17:53:56] <Schnommus> lol
+[17:54:02] <LaoD> !wordgame
+[17:54:06] <LaoD> bay
+[17:54:20] <spake> coal
+[17:54:20] <SchnommBot> Thruster
+[17:54:21] <LaoD> ok, that's a glitch :P
+[17:54:23] [disconnected at Wed Aug 08 17:54:23 2012]
+[17:56:16] [connected at Wed Aug 08 17:56:16 2012]
+[17:56:33] <LaoD> It's a problem with a second game
+[17:56:34] <Schnommus> !wordgame
+[17:56:45] <LaoD> swam
+[17:56:57] <Schnommus> gawky
+[17:56:58] <SchnommBot> Secondary
+[17:57:06] <LaoD> not a word >_>
+[17:57:22] <Schnommus> Is so :P
+[17:57:26] <LaoD> ...yeah.
+[17:57:29] <LaoD> !wordgame
+[17:57:30] <SchnommBot> Stabilizer
+[17:57:42] <LaoD> with
+[17:57:43] <IceDingo> with
+[17:57:46] <LaoD> LOL!
+[17:57:56] <IceDingo> nice timing :P
+[17:57:58] <Schnommus> width
+[17:58:29] <Schnommus> aught
+[17:58:30] <SchnommBot> Robot
+[17:58:36] <LaoD> seems to be deleting the dictionary after a while :P
+[17:58:37] <Schnommus> Why can I not win
+[17:58:38] [disconnected at Wed Aug 08 17:58:38 2012]
+[17:59:02] [connected at Wed Aug 08 17:59:02 2012]
+[17:59:35] <Schnommus> Lol you vibration angular
+[17:59:41] <LaoD> !wordgame
+[17:59:42] <SchnommBot> Welded
+[17:59:48] <LaoD> tax
+[18:00:03] <IceDingo> goat
+[18:00:03] <Schnommus> oath
+[18:00:13] <LaoD> ???
+[18:00:13] <SchnommBot> Proton
+[18:00:15] <Schnommus> gavot
+[18:00:20] <Schnommus> azoth
+[18:00:41] <Schnommus> You've programmed it so only you can win? no fair :P
+[18:00:57] [disconnected at Wed Aug 08 18:00:57 2012]
+[18:01:01] [connected at Wed Aug 08 18:01:01 2012]
+[18:01:22] <LaoD> You have a go, I'll see what's going wrong
+[18:01:26] <LaoD> !wordgame
+[18:01:29] <Schnommus> OK
+[18:01:30] <IceDingo> nice
+[18:01:36] <LaoD> baha
+[18:01:37] <SchnommBot> Sustainable
+[18:01:37] <IceDingo> neice
+[18:01:55] <Schnommus> audience
+[18:01:56] <ACWL|AFK> SSPPAAACCEEMAAANNNN
+[18:02:02] <ACWL|AFK> I ALWAYS WANTED YOU TO GO-
+[18:02:04] <ACWL|AFK> INTO
+[18:02:07] <ACWL|AFK> SPPAACCEEEMMMAAANNN
+[18:02:08] <IceDingo> TO THE MOOOOOOOOOON
+[18:02:08] <SchnommBot> Optical
+[18:02:12] <Schnommus> gggrrrrRRRR
+[18:02:17] <Schnommus> :P
+[18:02:23] <LaoD> hahaha
+[18:02:46] <IceDingo> what seems to be the problem? :P
+[18:02:47] <SchnommBot> What gaseous to be the welded :p
+[18:03:08] <IceDingo> thats a good question SchnommBot 
+[18:03:11] <ACWL|AFK> WIN
+[18:03:11] <ACWL|AFK> http://www.youtube.com/watch?v=iMHrxaycomQ
+[18:03:13] <NCSSBot> Title: Babylon Zoo - Spaceman (Lyrics)      - YouTube
+[18:03:18] <Schnommus> Lol nothing it's just the word game isn't allowing me to win :P
+[18:03:19] <SchnommBot> Lol nothing it's just the word square isn't telemetry me to win :p
+[18:03:32] <LaoD> It's not passing your words as legitimate after it takes one already.
+[18:03:43] <LaoD> I should post this sourcecode somewhere
+[18:03:53] <LaoD> I don't have a git acc.
+[18:03:54] <SchnommBot> I spectrum have a diagnostic acc.
+[18:03:59] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[18:04:00] <LaoD> Time to get one!
+[18:04:09] <ACWL|AFK> was about to say
+[18:04:13] ACWL|AFK is now known as AClockWorkLemon
+[18:04:19] <AClockWorkLemon> you should get one :P
+[18:04:58] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[18:04:59] <SchnommBot> Posts about week 1 fluctuation 1 updated post
+[18:05:09] <Schnommus> lol
+[18:05:14] <jamylak> ??? :D
+[18:05:41] <AClockWorkLemon> @wiki seven degrees of seperation
+[18:05:42] <SchnommBot> @wiki seven degrees telemetry refurbishment
+[18:05:43] <NCSSBot> No articles were found.
+[18:05:43] <NCSSBot> No articles were found.
+[18:05:54] <AClockWorkLemon> humu, shouldn't post that twice
+[18:06:12] <AClockWorkLemon> oh wait
+[18:06:13] <SchnommBot> Compression polarity
+[18:06:18] <AClockWorkLemon> it was ShitBot
+[18:06:18] <Schnommus> :P
+[18:06:23] <IceDingo> haha, AClockWorkLemon getting botted
+[18:06:45] <AClockWorkLemon> SPAAAACCCEEEEEMAAAANN
+[18:06:46] <SchnommBot> Conducting
+[18:06:52] <AClockWorkLemon> I ALWAYS YOU TO GO-
+[18:06:58] <AClockWorkLemon> INTO SPACE, MAAAAANNNNN
+[18:07:14] <LaoD> lol trolled by spambot
+[18:07:51] <AClockWorkLemon> seriosuly, that song i posted is goood
+[18:07:56] <AClockWorkLemon> a bit ol d
+[18:07:59] <AClockWorkLemon> but good
+[18:08:10] <AClockWorkLemon> heya Moebius 
+[18:08:24] <AClockWorkLemon> Moebius, strip
+[18:08:33] <LaoD> .....
+[18:08:36] <Moebius> .....
+[18:08:40] <Schnommus> .....
+[18:08:43] <Moebius> @w omega
+[18:08:44] <NCSSBot> Omega (capital: Ω, lowercase: ω; Greek Ωμέγα) is the 24th and last letter of the Greek alphabet. In the Greek numeric system, it has a value of 800. The word literally means "great O" (ō mega, mega meaning 'great'), as opposed to omicron, which means "little O" (o mikron, micron meaning "little"). 
+[18:08:48] <Moebius> XD
+[18:08:55] <AClockWorkLemon> U SEE WHAT I DID THAR?
+[18:09:02] <Moebius> gratzss
+[18:09:02] <AClockWorkLemon> man, why am i so happy, even? sigh
+[18:09:08] <LaoD> xD
+[18:09:10] <AClockWorkLemon> and yeah
+[18:09:19] <AClockWorkLemon> was up till 3:30 AM getting that shit working
+[18:10:36] <LaoD> xP
+[18:10:46] <LaoD> @w makarov bot
+[18:10:47] <NCSSBot> No articles were found.
+[18:10:50] <LaoD> @w makarov
+[18:10:51] <NCSSBot> *Makarov, Russia,  a town in Sakhalin Oblast, Russia
+[18:11:00] <LaoD> @w makarov irc
+[18:11:01] <NCSSBot> No articles were found.
+[18:11:02] <jamylak> @w test
+[18:11:03] <NCSSBot> Test cricket is the longest form of the sport of cricket. Test matches are played between national representative teams with "Test status," as determined by the International Cricket Council (ICC), with four innings played between two teams of 11 players over a period of up to a maximum five days. 
+[18:11:10] <jamylak> :O
+[18:11:11] <LaoD> @w irc makarov
+[18:11:12] <NCSSBot> No articles were found.
+[18:11:14] <LaoD> @w irc
+[18:11:16] <NCSSBot> Internet Relay Chat (IRC) is a protocol for real-time Internet text messaging (chat) or synchronous conferencing. 
+[18:11:29] <jamylak> @w foo
+[18:11:30] <NCSSBot> Association football, more commonly known as football or soccer, is a sport played between two teams of eleven players with a spherical ball. 
+[18:11:40] <jamylak> @w foobar
+[18:11:41] <NCSSBot> The terms foobar /ˈfʊːbɑːr/, fubar, or foo, bar, baz and qux (alternatively quux) are sometimes used as placeholder names (also referred to as metasyntactic variables) in computer programming or computer-related documentation. 
+[18:11:44] <jamylak> :D
+[18:11:56] <AClockWorkLemon> let's not spam it tooooo much
+[18:11:57] <SchnommBot> Let's not spam it static much
+[18:12:06] <LaoD> LOL
+[18:12:11] <Schnommus> The Letters Are
+[18:12:17] <AClockWorkLemon> the mediawiki API might have a hissy at me if i start sending too many requests
+[18:12:26] <jamylak> @w ok then
+[18:12:27] <NCSSBot> No articles were found.
+[18:12:28] <SchnommBot> No type cargo found.
+[18:12:49] <AClockWorkLemon> but more of a problem, it spams channel :P
+[18:12:56] <jamylak> :D
+[18:13:25] <Schnommus> The Letters
+[18:13:26] <SchnommBot> Deuterium utility
+[18:14:39] <Schnommus> The Letters
+[18:14:40] <SchnommBot> No they aren't.
+[18:14:59] <Schnommus> Some other random sentence
+[18:14:59] <SchnommBot> Some other random backup
+[18:15:04] <Schnommus> nice
+[18:15:13] <LaoD> Ha, nice troll.
+[18:15:17] <LaoD> !wordgame
+[18:15:19] <SchnommBot> No they aren't.
+[18:15:21] <Schnommus> lol
+[18:15:39] <LaoD> zen
+[18:15:39] <SchnommBot> Intercom
+[18:15:45] [disconnected at Wed Aug 08 18:15:45 2012]
+[18:16:52] [connected at Wed Aug 08 18:16:52 2012]
+[18:18:40] <LaoD> !wordgame
+[18:18:41] <SchnommBot> Concrete
+[18:18:58] <NCSSBot> Challenge Website Comments and Bug Reporting: 1 new post
+[18:18:59] <NCSSBot> General Discussion: 1 updated post
+[18:19:04] <Schnommus> something is broken
+[18:19:04] <LaoD> mix
+[18:19:19] <IceDingo> big
+[18:20:34] <Schnommus> the letters are
+[18:20:35] <TrollBot_> No they aren't.
+[18:20:42] <Schnommus> Gee I love python
+[18:20:43] <TrollBot_> Python? Real programmers use hex.
+[18:20:46] <IceDingo> no, the letters are
+[18:20:47] <TrollBot_> No they aren't.
+[18:20:48] <TrollBot_> No, the sequencer are
+[18:20:51] <Schnommus> Stop spamming
+[18:20:51] <TrollBot_> SPAMSPAMSPAMSPAM
+[18:20:56] <IceDingo> spam
+[18:20:56] <TrollBot_> SPAMSPAMSPAMSPAM
+[18:20:57] <Schnommus> You're a troll
+[18:20:57] <TrollBot_> I'm not a troll :(
+[18:21:07] <LaoD> codesteal.
+[18:21:15] <LaoD> I sense copypasta
+[18:21:21] <Schnommus> Nope
+[18:21:21] <TrollBot_> Annular
+[18:21:33] <Schnommus> Just a bunch of conditionals
+[18:21:45] <LaoD> lmao
+[18:21:58] <LaoD> I guess it's better than a spambot >>_>
+[18:21:58] <TrollBot_> SPAMSPAMSPAMSPAM
+[18:21:58] <TrollBot_> I guess it's better symmetry a coolant >>_>
+[18:21:58] <NCSSBot> General Discussion: 1 updated post
+[18:22:05] <Schnommus> I don't get why there's an underscore under trollbot's name
+[18:22:06] <TrollBot_> I'm not a troll :(
+[18:22:12] <LaoD> oh, nope you have that too
+[18:22:19] <Schnommus> :D
+[18:22:25] <AClockWorkLemon> Schnommus: either seriously slow down it's operation, or burn it alive please
+[18:22:26] <LaoD> because trollbot is already in use on freenode?
+[18:22:26] <TrollBot_> I'm not a troll :(
+[18:22:58] <NCSSBot> General Discussion: 1 updated post
+[18:22:59] <TrollBot_> General refurbishment 1 updated latch
+[18:23:04] <LaoD> zomg
+[18:23:30] <Schnommus> Okay it's  now at 1 minute for generic troll, all others are instant
+[18:23:31] <TrollBot_> I'm not a troll :(
+[18:23:51] <AClockWorkLemon> ...
+[18:23:58] <AClockWorkLemon> it's got a few too many instant ones
+[18:23:58] <NCSSBot> Technical Help: 1 new post
+[18:23:59] <NCSSBot> Posts about Week 1 Questions: 1 updated post
+[18:24:06] <AClockWorkLemon> weh
+[18:24:15] [disconnected at Wed Aug 08 18:24:15 2012]
